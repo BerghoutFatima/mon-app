@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.table
+  {
+      border-collapse: collapse;
+  }
+
+  .navColor{
+    background-color: #183367;
+  }
+
+  #box{
+    width:1000px;
+    height:450px;
+    margin: 0px 20px;
+    top: 70px;
+    left: 140px;
+    position: relative;
+  }
+  .logo{
+    display: block;
+    margin-left: 3%;
+    margin-top: 0.5%;
+  }
+    img {
+      width: 130px;
+      height: 50px;
+    }
